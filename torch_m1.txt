@@ -1,0 +1,11 @@
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+Start matrix mul
+3343.60669602411 FLOPS

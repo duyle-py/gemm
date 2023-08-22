@@ -1,0 +1,1 @@
+   4194304   4708.92 us, would be   3648.37 GFLOPS matmul, 10.69 GB/s
